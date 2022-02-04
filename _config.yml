@@ -22,8 +22,8 @@ title: fbtest
 email: madebyweng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   test and development for facebook 
-baseurl: "fbtest.github.io" # the subpath of your site, e.g. /blog
-url: "https://fbtest.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/fbtest" # the subpath of your site, e.g. /blog
+url: "https://madebyweng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: madebyweng
 github_username:  madebyweng
 

@@ -10,4 +10,4 @@ You can find the source code for fbtest at GitHub:
 
 
 
-[febtest-organization]: https://fbtest.github.io/
+[febtest-organization]: https://madebyweng.github.io/fbtest/

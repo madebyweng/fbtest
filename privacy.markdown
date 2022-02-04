@@ -7,7 +7,7 @@ permalink: /privacy/
 
 <p>Milch Mobile operates the fbtest.github.io/privacy website, which provides the SERVICE.</p>
 
-<p>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the fbtest.github.io website.</p>
+<p>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the madebyweng.github.io/fbtest website.</p>
 
 <p>If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. Our Privacy Policy was created with the help of the <a href="https://www.privacypolicytemplate.net">Privacy Policy Template Generator</a>.</p>
 
